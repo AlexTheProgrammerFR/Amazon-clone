@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #404040;
+    padding: 1rem;
+}
+
+header a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
